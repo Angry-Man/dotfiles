@@ -1,0 +1,14 @@
+!URxvt.font: xft:scientifica:size=11
+URxvt.font: -xos4-terminus-medium-r-normal-*-12-120-72-72-c-60-iso8859-1
+!URxvt.font: -nerdypepper-scientifica-medium-r-normal-*-11-80-100-100-c-50-iso10646-1
+!URxvt.font: -romeovs-creep2-medium-r-normal-*-11-110-75-75-c-50-iso10646-1
+
+URxvt.scrollBar: false
+URxvt.depth: 30
+
+! 2bwm
+
+twobwm.border_width: 9
+twobwm.outer_border: 5
+twobwm.inverted_colors: false
+
