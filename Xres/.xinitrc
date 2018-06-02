@@ -47,6 +47,8 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  done
  unset f
 fi
+#turn off beep
+xset -b
 
 #adjustment of resoution
 xrandr --output VGA-1 --mode 1920x1080 &
@@ -62,6 +64,7 @@ ${HOME}/sys-comps/bar/barmaster.sh &
 
 #start dunst
 ${HOME}/sys-comps/dunst/dunstset.sh &
+
 #start compton for fades
 compton -f &
 
