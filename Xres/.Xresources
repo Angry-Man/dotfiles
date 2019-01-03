@@ -1,5 +1,7 @@
 !URxvt.font: -xos4-terminus-medium-r-normal-*-12-120-72-72-c-60-iso8859-1
 URxvt.font: -romeovs-creep2-medium-r-normal-*-11-110-75-75-c-50-iso10646-1
+URxvt.boldFont: -romeovs-creep2-medium-r-normal-*-11-110-75-75-c-50-iso10646-1
+
 
 URxvt.scrollBar: false
 URxvt.depth: 30
