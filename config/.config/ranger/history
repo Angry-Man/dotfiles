@@ -1,7 +1,0 @@
-rm *
-delete *
-delete all
-shell unzip Resume\ Bank-20181011T222113Z-001.zip 
-shell rm mpv-shot0001.jpg
-
-shell rm scrip
