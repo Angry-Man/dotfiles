@@ -68,5 +68,8 @@ ${HOME}/sys-comps/dunst/dunstset.sh &
 #start compton for fades
 compton -f &
 
+#start redshift
+redshift -l 29.75:-95.34
+
 #start 2bwm
 2bwm  
