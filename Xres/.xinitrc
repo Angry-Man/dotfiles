@@ -50,9 +50,6 @@ fi
 #turn off beep
 xset -b
 
-#adjustment of resoution
-xrandr --output VGA-1 --mode 1920x1080 &
-
 #set wallpaper
 ${HOME}/scripts/theming/wpset &
 
@@ -69,7 +66,9 @@ ${HOME}/sys-comps/dunst/dunstset.sh &
 compton -f &
 
 #start redshift
-redshift -l 29.75:-95.34
+redshift -l 29.75:-95.34 &
 
+#set backlight to 50
+xbacklight -set 50
 #start 2bwm
 2bwm  

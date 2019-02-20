@@ -1,0 +1,17 @@
+#This file contains urls for newsboat to read from
+
+#This is the news section
+http://feeds.reuters.com/reuters/topNews
+http://feeds.reuters.com/Reuters/worldNews
+http://feeds.reuters.com/Reuters/domesticNews
+http://feeds.reuters.com/ReutersPictures
+
+http://feeds.bbci.co.uk/news/rss.xml
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://feeds.bbci.co.uk/news/politics/rss.xml
+
+
+#This is the podcast section
+http://criticalrolepodcast.geekandsundry.com/feed.xml
+#This is the youtube channel section
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaifrB5IrvGNPJmPeVOcqBA

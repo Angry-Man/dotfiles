@@ -1,0 +1,68 @@
+Feb 19 20:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:28 : update: added podcasts/001_CR_podcast_44_128.mp3
+Feb 19 20:28 : update: added podcasts/000_CR_podcast_44_128.mp3
+Feb 19 20:29 : client: [0] opened from [::1]:60154
+Feb 19 20:29 : client: [0] closed
+Feb 19 20:29 : client: [1] opened from [::1]:60156
+Feb 19 20:29 : client: [1] closed
+Feb 19 20:29 : client: [2] opened from [::1]:60158
+Feb 19 20:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:29 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:29 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:29 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:29 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:29 : player: problems opening audio device while playing "podcasts/001_CR_podcast_44_128.mp3"
+Feb 19 20:29 : player: played "podcasts/001_CR_podcast_44_128.mp3"
+Feb 19 20:30 : client: [2] closed
+Feb 19 20:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:32 : client: [0] opened from [::1]:60170
+Feb 19 20:32 : client: [0] closed
+Feb 19 20:32 : client: [1] opened from [::1]:60172
+Feb 19 20:32 : client: [1] closed
+Feb 19 20:32 : client: [2] opened from [::1]:60174
+Feb 19 20:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : player: problems opening audio device while playing "podcasts/001_CR_podcast_44_128.mp3"
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : exception: Failed to open "default detected output" (sndio)
+Feb 19 20:33 : exception: nested: Requested audio params cannot be satisfied
+Feb 19 20:33 : client: [2] closed
+Feb 19 20:35 : player: played "podcasts/001_CR_podcast_44_128.mp3"
+Feb 19 20:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 20:35 : client: [0] opened from [::1]:60176
+Feb 19 20:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Feb 19 20:56 : client: [0] closed
+Feb 19 20:56 : client: [1] opened from [::1]:60344
+Feb 19 20:57 : client: [1] closed
+Feb 19 21:02 : client: [2] opened from [::1]:60360
+Feb 19 21:08 : client: [2] closed
+Feb 19 21:08 : client: [3] opened from [::1]:60432
+Feb 19 21:08 : player: played "podcasts/001_CR_podcast_44_128.mp3"
+Feb 19 21:08 : client: [3] closed
+Feb 19 21:09 : update: removing podcasts/000_CR_podcast_44_128.mp3
+Feb 19 21:09 : update: removing podcasts/001_CR_podcast_44_128.mp3
+Feb 19 21:09 : update: added podcasts/Critical Role/001_CR_podcast_44_128.mp3
+Feb 19 21:09 : update: added podcasts/Critical Role/000_CR_podcast_44_128.mp3
+Feb 19 21:09 : client: [4] opened from [::1]:60434
+Feb 19 21:11 : client: [4] closed
+Feb 19 21:11 : client: [5] opened from [::1]:60436
+Feb 19 21:12 : client: [5] closed
+Feb 19 21:13 : client: [6] opened from [::1]:60438
+Feb 19 21:35 : client: [6] closed
+Feb 19 21:35 : client: [7] opened from [::1]:60442
+Feb 19 21:36 : client: [7] closed
+Feb 19 21:36 : client: [8] opened from [::1]:60444
+Feb 19 21:42 : client: [8] closed
+Feb 19 21:46 : player: played "podcasts/Critical Role/001_CR_podcast_44_128.mp3"
+Feb 19 21:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 21:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 21:46 : client: [0] opened from [::1]:60542
